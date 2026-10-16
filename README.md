@@ -2,6 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![PyPI Downloads](https://pepy.tech/badge/wildfire-response)](https://pepy.tech/project/wildfire-response)
 [![Pytest Suite](https://img.shields.io/badge/tests-16%20passed-brightgreen.svg)]()
 [![Three.js](https://img.shields.io/badge/3D%20WebGL-Three.js%20r128-orange.svg)](https://threejs.org/)
 [![Nerd Fonts](https://img.shields.io/badge/typography-Nerd%20Fonts%20v3.5-cyan.svg)](https://github.com/ryanoasis/nerd-fonts)
